@@ -1,3 +1,3 @@
-def printName(name){
+def call(name){
 	echo "${name}"
 }
